@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/vvb0u55nr17v/public_html/
+    - export DEPLOYPATH=/home/vvb0u55nr17v/public_html/try.pmlacademy.com
     - /bin/cp -R * $DEPLOYPATH
